@@ -1,0 +1,125 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 149679 (0x248af)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=GeoTrust Inc., CN=RapidSSL SHA256 CA - G3
+        Validity
+            Not Before: Feb 10 20:34:29 2015 GMT
+            Not After : Mar 14 12:29:19 2016 GMT
+        Subject: OU=GT31396712, OU=See www.rapidssl.com/resources/cps (c)15, OU=Domain Control Validated - RapidSSL(R), CN=*.kastatic.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:c0:a6:96:bf:16:c5:c2:24:18:e1:1f:a7:94:e5:
+                    eb:22:fe:04:b1:61:d3:a6:3c:32:dc:98:88:07:40:
+                    f5:7b:8c:ee:e0:aa:65:2c:22:d1:d3:00:c0:27:2f:
+                    34:46:14:ed:de:e2:b9:c5:db:8a:da:10:11:23:3a:
+                    45:24:bc:d8:b9:f0:ed:ae:fb:f6:cd:4d:37:c5:e0:
+                    03:c8:f9:69:60:d4:78:ec:9d:90:09:30:08:e7:07:
+                    81:f7:7c:c7:7b:ab:af:4d:2c:83:e0:d8:8b:da:21:
+                    35:cc:fb:b9:f5:30:83:be:13:3c:45:59:4d:cc:a6:
+                    e3:4c:e5:5b:53:24:29:d1:d0:32:01:ff:86:4e:b6:
+                    c8:5e:c5:6d:b8:44:d1:40:6a:cc:81:6d:05:b4:32:
+                    81:cf:aa:11:0d:0c:23:dc:d7:ae:f4:d8:99:58:fe:
+                    3f:1c:3a:9c:da:30:24:f0:d4:e0:ab:ec:e7:90:dd:
+                    fb:90:f7:cf:ba:31:73:9f:90:d0:61:24:f1:63:b3:
+                    a8:3c:75:f9:66:ad:7d:e3:08:21:a7:a9:53:f3:4a:
+                    7a:e7:4c:e2:01:bc:1e:44:04:8a:8d:df:7b:7f:f4:
+                    0a:bd:33:30:74:56:87:81:38:23:59:bf:68:b4:27:
+                    57:2b:0e:b4:a5:0c:14:20:5b:17:15:76:cd:2a:1b:
+                    5e:da:44:55:01:ac:33:77:72:34:a3:51:1f:33:96:
+                    5b:26:58:9a:a3:e8:9c:54:e6:78:ff:10:cb:07:94:
+                    0f:fe:8d:2b:10:9a:0c:09:cb:7b:8b:72:a3:6a:02:
+                    e4:6b:c4:a7:fc:cd:31:e7:b6:94:3b:6f:c1:b4:ca:
+                    81:c0:ca:0e:19:69:fc:17:85:c8:28:c7:fb:65:fa:
+                    89:e0:15:82:85:8b:c8:1b:28:70:b6:3d:c3:14:07:
+                    48:2e:a6:7a:a8:a7:a7:47:46:fb:72:04:1c:ec:8b:
+                    e7:78:57:a1:11:55:4d:a6:bb:4f:27:e2:50:82:51:
+                    20:2c:81:19:f7:e1:f1:69:0d:01:1f:94:47:46:2b:
+                    05:2f:57:cf:79:0e:ec:14:36:1c:13:0d:8f:3d:e7:
+                    f0:87:0d:ef:bb:c6:2b:e2:54:02:96:4b:1e:23:09:
+                    d0:07:24:c8:2a:a7:d7:61:71:b1:30:88:a1:38:7f:
+                    60:d1:5e:29:85:34:56:27:84:f9:0e:15:1d:b8:83:
+                    66:fa:81:bd:58:7c:f9:63:1d:e2:28:8f:70:f9:71:
+                    cb:48:5d:54:42:3b:6e:14:6d:09:16:0d:fa:94:e1:
+                    42:61:2b:61:6c:39:72:56:01:0f:2c:f7:0c:67:c4:
+                    55:06:dc:3f:14:b0:00:89:00:a3:91:ba:c0:1e:f8:
+                    14:de:d9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C3:9C:F3:FC:D3:46:08:34:BB:CE:46:7F:A0:7C:5B:F3:E2:08:CB:59
+
+            Authority Information Access: 
+                OCSP - URI:http://gv.symcd.com
+                CA Issuers - URI:http://gv.symcb.com/gv.crt
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:*.kastatic.com, DNS:kastatic.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gv.symcb.com/gv.crl
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: https://www.rapidssl.com/legal
+
+    Signature Algorithm: sha256WithRSAEncryption
+         8b:97:74:15:4f:a2:34:e2:d4:ab:49:68:9c:31:9d:6c:bf:f2:
+         db:ad:8b:9a:e5:17:47:2a:c0:32:c9:83:57:80:36:84:4a:61:
+         9f:80:0e:e2:3d:c5:95:ba:79:5a:b9:d0:11:3c:ef:fd:d6:0f:
+         a5:cd:4b:79:74:ab:30:95:e7:54:17:5b:d9:5a:71:d9:07:c7:
+         47:78:2c:56:ff:7c:ce:10:27:99:da:0d:e8:79:d3:a5:82:44:
+         68:52:f6:c8:53:10:53:19:9f:7b:6d:55:1f:b6:6e:c5:b8:99:
+         8b:9f:ab:c9:4e:61:a5:70:b4:06:ac:2d:4a:90:7b:81:49:69:
+         77:b7:e4:c1:11:1a:8d:5c:09:9f:fd:9b:ed:bc:b8:61:22:5e:
+         6b:89:f6:f8:9c:db:2d:f7:10:54:53:8c:0e:30:37:95:07:ef:
+         db:7c:1b:9b:4a:f5:2a:b7:d7:0f:e6:0e:9a:f7:0e:bd:7e:30:
+         64:e3:2f:9b:5d:4a:d7:1e:e1:a3:3e:c1:6e:80:3c:ab:11:ea:
+         02:a2:14:69:60:ac:51:99:73:66:9e:0a:98:c8:ac:e9:28:80:
+         17:53:b3:47:79:c9:3e:57:10:d0:f8:69:d8:fd:1d:2c:c0:01:
+         43:bc:97:40:80:a6:94:b6:74:11:f9:0e:8c:29:90:07:58:59:
+         20:98:4a:f7
+         
+-----BEGIN CERTIFICATE-----
+MIIFsTCCBJmgAwIBAgIDAkivMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNTAyMTAyMDM0MjlaFw0xNjAzMTQxMjI5MTlaMIGSMRMw
+EQYDVQQLEwpHVDMxMzk2NzEyMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEXMBUGA1UEAwwOKi5rYXN0YXRpYy5jb20w
+ggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDAppa/FsXCJBjhH6eU5esi
+/gSxYdOmPDLcmIgHQPV7jO7gqmUsItHTAMAnLzRGFO3e4rnF24raEBEjOkUkvNi5
+8O2u+/bNTTfF4API+Wlg1HjsnZAJMAjnB4H3fMd7q69NLIPg2IvaITXM+7n1MIO+
+EzxFWU3MpuNM5VtTJCnR0DIB/4ZOtshexW24RNFAasyBbQW0MoHPqhENDCPc1670
+2JlY/j8cOpzaMCTw1OCr7OeQ3fuQ98+6MXOfkNBhJPFjs6g8dflmrX3jCCGnqVPz
+SnrnTOIBvB5EBIqN33t/9Aq9MzB0VoeBOCNZv2i0J1crDrSlDBQgWxcVds0qG17a
+RFUBrDN3cjSjUR8zllsmWJqj6JxU5nj/EMsHlA/+jSsQmgwJy3uLcqNqAuRrxKf8
+zTHntpQ7b8G0yoHAyg4ZafwXhcgox/tl+ongFYKFi8gbKHC2PcMUB0gupnqop6dH
+RvtyBBzsi+d4V6ERVU2mu08n4lCCUSAsgRn34fFpDQEflEdGKwUvV895DuwUNhwT
+DY895/CHDe+7xiviVAKWSx4jCdAHJMgqp9dhcbEwiKE4f2DRXimFNFYnhPkOFR24
+g2b6gb1YfPljHeIoj3D5cctIXVRCO24UbQkWDfqU4UJhK2FsOXJWAQ8s9wxnxFUG
+3D8UsACJAKORusAe+BTe2QIDAQABo4IBWDCCAVQwHwYDVR0jBBgwFoAUw5zz/NNG
+CDS7zkZ/oHxb8+IIy1kwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRw
+Oi8vZ3Yuc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29t
+L2d2LmNydDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMCcGA1UdEQQgMB6CDioua2FzdGF0aWMuY29tggxrYXN0YXRpYy5jb20w
+KwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcmwwDAYD
+VR0TAQH/BAIwADBFBgNVHSAEPjA8MDoGCmCGSAGG+EUBBzYwLDAqBggrBgEFBQcC
+ARYeaHR0cHM6Ly93d3cucmFwaWRzc2wuY29tL2xlZ2FsMA0GCSqGSIb3DQEBCwUA
+A4IBAQCLl3QVT6I04tSrSWicMZ1sv/LbrYua5RdHKsAyyYNXgDaESmGfgA7iPcWV
+unlaudARPO/91g+lzUt5dKswledUF1vZWnHZB8dHeCxW/3zOECeZ2g3oedOlgkRo
+UvbIUxBTGZ97bVUftm7FuJmLn6vJTmGlcLQGrC1KkHuBSWl3t+TBERqNXAmf/Zvt
+vLhhIl5rifb4nNst9xBUU4wOMDeVB+/bfBubSvUqt9cP5g6a9w69fjBk4y+bXUrX
+HuGjPsFugDyrEeoCohRpYKxRmXNmngqYyKzpKIAXU7NHeck+VxDQ+GnY/R0swAFD
+vJdAgKaUtnQR+Q6MKZAHWFkgmEr3
+-----END CERTIFICATE-----
