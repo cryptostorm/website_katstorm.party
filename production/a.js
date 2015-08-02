@@ -8,3 +8,8 @@ function cca() {
  var rN = Math.floor(Math.random()*tA.length);
  document.getElementById("cA").innerHTML='<div style="width:100%;height:32px;line-height:32px;background:yellow;color:black;vertical-align: middle;text-align: center;">' + tA[rN] + '</div><div style="height:8px">&nbsp;</div>';
 }
+
+
+...also totally fucking up the flow here, but let's put a second line of text underneath the rotating stuff that includes the following actually useful info:
+
+<a href="https://cryptostorm.is/map" target="_blank">torrent tools & other cryptostorm goodies</a> | <a href="https://github.com/cryptostorm/katstorm" target="_blank">repository w/ proxy code & related info</a> | <a href="https://github.com/cryptostorm/katstorm/blob/master/certstuff/sslcert_turing.pem" target="_blank">current legit ssl certificate of this site</a>
