@@ -1,0 +1,95 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            31:39:e5:3e:2c:a2:1b:24:d7:5e:30:d6:1d:17:96:cb
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+        Validity
+            Not Before: Jul 30 00:00:00 2015 GMT
+            Not After : Jul 29 23:59:59 2016 GMT
+        Subject: OU=Domain Control Validated, OU=PositiveSSL, CN=katstorm.party
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:c7:7c:a9:41:ff:05:11:26:9b:06:fa:9c:7b:0c:
+                    11:11:67:36:ba:ed:ae:96:6a:9c:c2:ad:28:7d:68:
+                    38:49:07:b7:58:7e:a2:ff:f3:1a:72:18:a7:7a:cf:
+                    ed:6a:47:bf:99:ef:db:cb:fb:2e:ae:9a:e2:b1:ef:
+                    f0:8a:d8:7f:82:b7:9a:b7:f7:eb:7a:ab:9e:9d:cc:
+                    bf:fb:ef:bf:b6:ea:e2:9e:0f:ff:60:8c:76:a2:37:
+                    83:e0:87:ac:e3:c8:73:c5:4f:72:b8:9f:63:d0:7e:
+                    76:31:f6:a7:56:43:8f:b5:9d:46:52:df:2e:56:11:
+                    f2:70:c9:85:06:29:1b:29:b8:d0:6b:5b:b6:e1:b6:
+                    55:b9:16:65:b8:b4:e8:ab:08:cb:c8:10:66:4a:d2:
+                    29:6d:a7:e8:3e:bf:64:79:c3:49:7c:68:5a:73:f1:
+                    50:fb:6e:aa:87:24:c0:87:6b:7e:a1:d9:7d:19:74:
+                    cc:30:4a:0a:b7:0e:20:42:06:77:af:70:1c:28:62:
+                    57:ea:63:4f:9f:4a:d3:b0:a2:ca:22:f9:9b:17:83:
+                    06:79:f3:a0:e9:22:d3:28:42:31:68:a0:df:d2:82:
+                    23:11:fa:cd:67:85:93:79:7b:bf:5a:8c:96:0b:cd:
+                    73:a1:a3:84:4f:67:86:5c:d8:99:30:1b:62:fe:f3:
+                    7d:88:b9:a3:45:46:da:a7:cf:c1:88:3d:a1:20:00:
+                    1a:fa:a7:05:44:d1:c3:64:9a:d5:12:e6:75:6c:48:
+                    ee:b6:f3:ed:9a:6e:f4:25:2a:02:35:3b:0f:44:4a:
+                    2d:9d:23:a3:89:76:6f:e7:82:1e:64:b1:79:79:db:
+                    7b:2c:40:22:c6:d0:fb:5a:1b:37:92:01:5c:2a:a3:
+                    bc:15:66:f8:99:bd:58:5a:79:b4:d1:2c:23:ed:b8:
+                    bd:db:26:1f:9f:cf:bd:c7:e3:e5:99:be:62:ce:42:
+                    63:ee:6f:4d:04:fa:dc:20:60:f5:18:77:e3:cc:78:
+                    ba:49:bd:01:6c:85:81:e7:5d:6c:37:a0:bc:29:8e:
+                    20:6c:6f:88:c0:84:38:b5:be:02:ce:b6:c1:0a:05:
+                    ad:59:31:35:76:97:6d:a3:d9:bd:63:c2:73:e8:e6:
+                    c0:49:da:5a:df:3b:63:10:91:d3:c2:7a:6f:61:5c:
+                    f3:a1:f3:0d:b6:23:ff:a5:16:ef:29:3d:f7:db:ce:
+                    7c:dc:d9:74:83:a3:91:45:68:d8:64:7e:18:b2:0d:
+                    5e:14:c5:aa:87:83:90:9d:f1:ed:4d:95:86:6c:e2:
+                    6a:8d:df:09:cd:14:46:cd:b5:13:ba:9d:dd:d7:c7:
+                    7b:95:a2:b1:c8:c4:a8:e0:d8:19:36:21:7a:08:47:
+                    6e:6f:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:90:AF:6A:3A:94:5A:0B:D8:90:EA:12:56:73:DF:43:B4:3A:28:DA:E7
+
+            X509v3 Subject Key Identifier: 
+                02:D2:CC:98:34:07:C7:38:E9:C9:47:EF:76:11:D1:6B:F0:89:7E:8F
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODORSADomainValidationSecureServerCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODORSADomainValidationSecureServerCA.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:katstorm.party, DNS:www.katstorm.party
+    Signature Algorithm: sha256WithRSAEncryption
+         88:41:a5:b0:d4:dc:fe:1a:3a:20:9a:95:55:8a:76:b7:0d:70:
+         cb:ab:ee:e0:b9:ca:1d:0e:c5:c6:8f:bc:d8:df:78:c9:74:27:
+         83:ac:9a:72:d3:47:09:84:2e:3e:65:ee:4d:ae:80:8b:39:97:
+         46:71:5a:69:b2:d9:78:fc:6b:8b:8c:80:a1:a9:4a:97:47:ab:
+         4d:93:c6:d7:f2:61:3c:5c:09:cc:59:87:ed:20:67:a5:0c:56:
+         78:91:c7:38:b4:85:19:fe:ca:a0:f9:08:97:9f:cc:35:38:82:
+         3d:c5:39:be:ae:8b:2f:a9:4f:bd:99:f8:24:e4:0e:a6:03:e2:
+         52:3a:24:b8:25:f1:53:c3:84:74:e8:cb:aa:f9:8b:54:b0:b7:
+         cf:2f:39:d6:33:06:01:30:3b:b0:67:f1:90:57:70:6c:57:9d:
+         75:d9:3d:74:a2:0e:c1:51:ba:c8:63:8e:e3:c6:54:47:13:6b:
+         dd:4b:56:ee:6e:3e:c7:c8:a9:50:d9:36:9f:cf:03:03:ef:0c:
+         db:e7:39:ef:a4:93:94:87:c2:fb:46:e2:ca:09:7e:ba:6c:cd:
+         c3:ae:c7:a1:4f:6d:26:75:95:44:c6:71:ee:d7:5a:20:be:85:
+         e3:6d:58:a9:81:3a:7c:36:9f:5e:94:9c:f9:fd:11:e6:17:51:
+         0c:46:4e:a2
