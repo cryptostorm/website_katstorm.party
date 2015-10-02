@@ -1,0 +1,142 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            ad:f0:c6:94:9a:dc:6d:ad:fe:ef:b5:6e:46:bb:1e:91
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+        Validity
+            Not Before: Apr 24 00:00:00 2015 GMT
+            Not After : Apr 23 23:59:59 2016 GMT
+        Subject: OU=Domain Control Validated, OU=EssentialSSL Wildcard, CN=*.kat.cr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a1:0d:13:70:11:08:57:13:26:9c:36:69:82:59:
+                    76:aa:f0:38:5b:e1:2e:a0:28:55:b8:ae:2d:84:6b:
+                    bc:6f:3a:4f:c8:05:44:ac:bf:e1:26:f4:26:d6:8b:
+                    8b:0d:bd:64:7d:20:de:ba:6e:4d:ef:91:1d:37:86:
+                    24:7e:52:df:50:14:a1:16:46:7d:48:41:fb:8a:72:
+                    91:f2:a9:04:5f:b1:92:fa:d0:38:ab:59:0e:c9:85:
+                    d6:ef:3d:75:5f:d2:86:eb:66:ad:1e:82:35:fc:8b:
+                    78:31:54:45:ea:86:d9:3d:8c:2f:03:6e:af:e1:96:
+                    94:7c:e2:70:50:41:27:90:b6:21:b7:9c:a6:81:ea:
+                    0a:32:1b:5c:9d:d7:db:72:f0:ff:de:2b:4f:1d:8c:
+                    ce:4a:0b:67:48:db:4d:b2:d7:38:fc:d3:48:4c:9a:
+                    a3:49:df:56:f3:93:ac:50:2f:77:81:1c:55:6d:06:
+                    8a:5a:c9:b0:9c:2e:8a:84:68:c6:16:43:90:2f:d2:
+                    dd:13:4b:54:ef:d4:a5:fd:23:1e:06:10:a9:fc:a6:
+                    ca:6c:22:1c:22:4f:97:ff:a4:e2:4b:db:46:62:e0:
+                    3c:e6:fe:09:c0:b2:6d:2b:47:cb:ec:c9:6b:a1:54:
+                    5a:de:39:2a:a1:90:21:3c:36:5d:c9:bb:6e:41:9f:
+                    49:fd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:90:AF:6A:3A:94:5A:0B:D8:90:EA:12:56:73:DF:43:B4:3A:28:DA:E7
+
+            X509v3 Subject Key Identifier: 
+                28:22:D0:40:AC:5D:D6:7C:E1:78:19:C6:56:51:94:EA:EB:B3:5F:93
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODORSADomainValidationSecureServerCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODORSADomainValidationSecureServerCA.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.kat.cr, DNS:kat.cr
+    Signature Algorithm: sha256WithRSAEncryption
+         83:cc:83:0c:15:b0:19:af:84:c7:0b:e7:a1:80:54:c7:e3:2f:
+         bc:1b:38:7c:00:f3:50:2a:d5:3b:e6:36:ae:2d:66:55:1e:7a:
+         84:4b:7c:22:a4:31:b1:b9:e3:cb:82:f4:82:93:54:6e:ec:5d:
+         1f:30:9e:c6:cb:6c:bb:e9:8d:73:54:3d:4b:47:4b:59:30:78:
+         fc:4b:68:60:1a:57:23:a9:43:f9:20:3b:65:ed:a6:a8:bb:9d:
+         c2:55:04:77:f1:b4:ff:d1:1f:f6:ae:7d:d5:93:58:e5:dd:f6:
+         36:9c:92:9b:e6:c6:13:76:2b:6a:6e:5f:54:b3:a5:ab:2b:ed:
+         f6:62:89:7f:f5:82:a2:2a:cf:3e:78:7d:22:9d:a9:44:12:e6:
+         cc:9e:f6:e8:c1:23:9c:05:65:97:04:22:8b:a9:06:28:b7:d4:
+         b5:6a:c3:4e:26:85:8c:a7:c0:f2:05:39:99:68:50:2e:d3:73:
+         f3:85:9d:60:4e:b7:11:7c:07:f6:14:52:01:39:7c:a9:55:13:
+         57:67:29:fb:67:63:74:09:43:10:da:6d:87:be:23:e6:98:80:
+         8b:2e:36:77:27:61:0f:4e:18:d2:e7:cb:2f:40:af:de:07:ed:
+         ef:9b:60:7e:49:7d:76:94:b6:b6:c8:d0:a4:f9:f3:34:df:96:
+         1e:e3:90:65
+-----BEGIN CERTIFICATE-----
+MIIFQTCCBCmgAwIBAgIRAK3wxpSa3G2t/u+1bka7HpEwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTUwNDI0MDAwMDAwWhcNMTYwNDIzMjM1OTU5WjBWMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHjAcBgNVBAsTFUVzc2VudGlhbFNTTCBX
+aWxkY2FyZDERMA8GA1UEAxQIKi5rYXQuY3IwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQChDRNwEQhXEyacNmmCWXaq8Dhb4S6gKFW4ri2Ea7xvOk/IBUSs
+v+Em9CbWi4sNvWR9IN66bk3vkR03hiR+Ut9QFKEWRn1IQfuKcpHyqQRfsZL60Dir
+WQ7JhdbvPXVf0obrZq0egjX8i3gxVEXqhtk9jC8Dbq/hlpR84nBQQSeQtiG3nKaB
+6goyG1yd19ty8P/eK08djM5KC2dI202y1zj800hMmqNJ31bzk6xQL3eBHFVtBopa
+ybCcLoqEaMYWQ5Av0t0TS1Tv1KX9Ix4GEKn8pspsIhwiT5f/pOJL20Zi4Dzm/gnA
+sm0rR8vsyWuhVFreOSqhkCE8Nl3Ju25Bn0n9AgMBAAGjggHNMIIByTAfBgNVHSME
+GDAWgBSQr2o6lFoL2JDqElZz30O0Oija5zAdBgNVHQ4EFgQUKCLQQKxd1nzheBnG
+VlGU6uuzX5MwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQECAgcw
+KzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYG
+Z4EMAQIBMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYUG
+CCsGAQUFBwEBBHkwdzBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5jb21vZG9jYS5j
+b20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMBsGA1UdEQQUMBKC
+CCoua2F0LmNyggZrYXQuY3IwDQYJKoZIhvcNAQELBQADggEBAIPMgwwVsBmvhMcL
+56GAVMfjL7wbOHwA81Aq1TvmNq4tZlUeeoRLfCKkMbG548uC9IKTVG7sXR8wnsbL
+bLvpjXNUPUtHS1kwePxLaGAaVyOpQ/kgO2Xtpqi7ncJVBHfxtP/RH/aufdWTWOXd
+9jackpvmxhN2K2puX1Szpasr7fZiiX/1gqIqzz54fSKdqUQS5sye9ujBI5wFZZcE
+IoupBii31LVqw04mhYynwPIFOZloUC7Tc/OFnWBOtxF8B/YUUgE5fKlVE1dnKftn
+Y3QJQxDabYe+I+aYgIsuNncnYQ9OGNLnyy9Ar94H7e+bYH5JfXaUtrbI0KT58zTf
+lh7jkGU=
+-----END CERTIFICATE-----
+
+
+-----BEGIN CERTIFICATE-----
+MIIFQTCCBCmgAwIBAgIRAK3wxpSa3G2t/u+1bka7HpEwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTUwNDI0MDAwMDAwWhcNMTYwNDIzMjM1OTU5WjBWMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHjAcBgNVBAsTFUVzc2VudGlhbFNTTCBX
+aWxkY2FyZDERMA8GA1UEAxQIKi5rYXQuY3IwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQChDRNwEQhXEyacNmmCWXaq8Dhb4S6gKFW4ri2Ea7xvOk/IBUSs
+v+Em9CbWi4sNvWR9IN66bk3vkR03hiR+Ut9QFKEWRn1IQfuKcpHyqQRfsZL60Dir
+WQ7JhdbvPXVf0obrZq0egjX8i3gxVEXqhtk9jC8Dbq/hlpR84nBQQSeQtiG3nKaB
+6goyG1yd19ty8P/eK08djM5KC2dI202y1zj800hMmqNJ31bzk6xQL3eBHFVtBopa
+ybCcLoqEaMYWQ5Av0t0TS1Tv1KX9Ix4GEKn8pspsIhwiT5f/pOJL20Zi4Dzm/gnA
+sm0rR8vsyWuhVFreOSqhkCE8Nl3Ju25Bn0n9AgMBAAGjggHNMIIByTAfBgNVHSME
+GDAWgBSQr2o6lFoL2JDqElZz30O0Oija5zAdBgNVHQ4EFgQUKCLQQKxd1nzheBnG
+VlGU6uuzX5MwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQECAgcw
+KzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYG
+Z4EMAQIBMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYUG
+CCsGAQUFBwEBBHkwdzBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5jb21vZG9jYS5j
+b20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMBsGA1UdEQQUMBKC
+CCoua2F0LmNyggZrYXQuY3IwDQYJKoZIhvcNAQELBQADggEBAIPMgwwVsBmvhMcL
+56GAVMfjL7wbOHwA81Aq1TvmNq4tZlUeeoRLfCKkMbG548uC9IKTVG7sXR8wnsbL
+bLvpjXNUPUtHS1kwePxLaGAaVyOpQ/kgO2Xtpqi7ncJVBHfxtP/RH/aufdWTWOXd
+9jackpvmxhN2K2puX1Szpasr7fZiiX/1gqIqzz54fSKdqUQS5sye9ujBI5wFZZcE
+IoupBii31LVqw04mhYynwPIFOZloUC7Tc/OFnWBOtxF8B/YUUgE5fKlVE1dnKftn
+Y3QJQxDabYe+I+aYgIsuNncnYQ9OGNLnyy9Ar94H7e+bYH5JfXaUtrbI0KT58zTf
+lh7jkGU=
+-----END CERTIFICATE-----
